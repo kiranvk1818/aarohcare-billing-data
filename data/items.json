@@ -4,5 +4,11 @@
     "desc": "AarohCare Clinic",
     "rate": 549,
     "kind": "Subscription"
+  },
+  {
+    "id": "c161aaed-b5dd-4f23-9ef4-3a651d6f3923",
+    "desc": "AarohCare Lab",
+    "rate": 549,
+    "kind": "Subscription"
   }
 ]
