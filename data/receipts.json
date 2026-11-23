@@ -1,0 +1,59 @@
+[
+  {
+    "id": "432665a0-8368-4f1a-bdef-843580b49b0e",
+    "no": "ACR-2026-0001",
+    "date": "2026-11-23",
+    "customer": {
+      "id": "ede03d86-e27b-421a-b271-b2ae3b7408c4",
+      "name": "Pharma World",
+      "type": "Clinic",
+      "contact": "Shafeeq",
+      "phone": "938895630",
+      "email": "pharmaworld@gmail.cm",
+      "address": "Therattemal",
+      "createdAt": "2026-11-23T13:17:18.241Z"
+    },
+    "kind": "Subscription",
+    "cycle": "Yearly",
+    "from": "2026-11-23",
+    "to": "2027-11-22",
+    "items": [
+      {
+        "desc": "AarohCare Clinic Subscription",
+        "qty": 1,
+        "rate": 549
+      },
+      {
+        "desc": "Online and Offline support",
+        "qty": 1,
+        "rate": 0
+      },
+      {
+        "desc": "WhatsApp notification",
+        "qty": 1,
+        "rate": 0
+      },
+      {
+        "desc": "Onboarding, setup fee, staff training",
+        "qty": 1,
+        "rate": 0
+      }
+    ],
+    "discType": "flat",
+    "discount": 50,
+    "payments": [
+      {
+        "date": "2026-11-23",
+        "amount": 499,
+        "mode": "UPI",
+        "ref": ""
+      }
+    ],
+    "notes": "Thank you for choosing AarohCare.",
+    "terms": "This is a computer generated receipt.\nPayment once made is non-refundable unless agreed in writing.",
+    "signatory": "Authorised Signatory",
+    "voided": false,
+    "createdAt": "2026-11-23T13:17:20.523Z",
+    "updatedAt": "2026-11-23T13:19:43.276Z"
+  }
+]
