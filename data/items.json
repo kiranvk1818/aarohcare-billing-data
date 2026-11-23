@@ -82,5 +82,11 @@
     "desc": "WhatsApp notification",
     "rate": 0,
     "kind": "Any"
+  },
+  {
+    "id": "d7f632e5-20de-47ee-a6a5-687d520c29cd",
+    "desc": "Onboarding, setup fee, staff training",
+    "rate": 0,
+    "kind": "Any"
   }
 ]
