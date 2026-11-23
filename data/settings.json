@@ -1,0 +1,26 @@
+{
+  "business": {
+    "name": "AarohCare",
+    "legal": "Aarohacare Technologies Pvt Ltd",
+    "address": "MUTTADIKAL BUILDING, Providence College Rd, Kannadikkal, Kozhikode, Keralam 673010",
+    "phone": "",
+    "email": "",
+    "website": ""
+  },
+  "logo": "",
+  "prefix": "ACR",
+  "yearInNo": true,
+  "nextNo": 1,
+  "currency": "₹",
+  "notes": "Thank you for choosing AarohCare.",
+  "terms": "This is a computer generated receipt.\nPayment once made is non-refundable unless agreed in writing.",
+  "signatory": "Authorised Signatory",
+  "footer": "",
+  "modes": [
+    "UPI",
+    "Bank Transfer",
+    "Cash",
+    "Cheque",
+    "Card"
+  ]
+}
