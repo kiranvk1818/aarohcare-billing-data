@@ -64,5 +64,11 @@
     "desc": "AarohCare Clinic + Lab",
     "rate": 39999,
     "kind": "Buyout"
+  },
+  {
+    "id": "d08e2544-936a-4f30-a276-6baa32291c8f",
+    "desc": "AarohCare Clinic + Lab + Pharmacy",
+    "rate": 52999,
+    "kind": "Buyout"
   }
 ]
