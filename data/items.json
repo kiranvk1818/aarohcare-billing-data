@@ -76,5 +76,11 @@
     "desc": "Online and Offline support",
     "rate": 0,
     "kind": "Any"
+  },
+  {
+    "id": "f12e09a7-6e01-450c-a9ca-ee2a98c944ff",
+    "desc": "WhatsApp notification",
+    "rate": 0,
+    "kind": "Any"
   }
 ]
