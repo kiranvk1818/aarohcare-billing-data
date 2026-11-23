@@ -70,5 +70,11 @@
     "desc": "AarohCare Clinic + Lab + Pharmacy Buyout",
     "rate": 52999,
     "kind": "Buyout"
+  },
+  {
+    "id": "b96087ee-f6ed-41a8-a73d-edad79caa625",
+    "desc": "Online and Offline support",
+    "rate": 0,
+    "kind": "Any"
   }
 ]
