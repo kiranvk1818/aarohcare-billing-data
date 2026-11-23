@@ -46,5 +46,11 @@
     "desc": "AarohCare Lab",
     "rate": 19999,
     "kind": "Buyout"
+  },
+  {
+    "id": "0a9a2513-c348-4fcf-b1c4-65f3446459df",
+    "desc": "AarohCare Pharmacy",
+    "rate": 14999,
+    "kind": "Buyout"
   }
 ]
