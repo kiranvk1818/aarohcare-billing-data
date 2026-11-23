@@ -28,5 +28,11 @@
     "desc": "AarohCare Clinic +Lab",
     "rate": 1099,
     "kind": "Subscription"
+  },
+  {
+    "id": "27b808e6-882d-438c-b6bc-5b39f2f09a01",
+    "desc": "AarohCare Clinic + Lab + Pharmacy",
+    "rate": 1449,
+    "kind": "Subscription"
   }
 ]
